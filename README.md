@@ -8,12 +8,30 @@ ShellQMaker of windows can bypass Norton、Bitdefender、360、Panda.
 
 Environment: The loader templates uses QT to implement, the generator and loader templates are developed with C + +, and statically compiled by VS2022.
 
- It has one loading modes.Other loading modes are in development.
+Currently it only has one loading modes,Other loading modes are in development.()
  
  Methods: Use vs2022 to open the project solution (. sln), and then compile.Of course,You can download the product from [realse]() .
  
 ## Files
 
-  The tool is composed of a generator(ShellQMaker.exe) and Load template file(loading.exe).The generator (ShellQMaker.exe) writes different shellcodes into the loaded template file(loading.exe) to generate different exe files.
+  The tool is composed of a generator(ShellQMaker.exe) and Load template file(loading.exe).The generator (ShellQMaker.exe) writes different shellcodes into the loaded template file(loading.exe) to generate different executable files.
 
 <img src="Readme.assets/image-20201124160121278.png" alt="image-20201124160121278" style="zoom:80%;" />
+
+## Instructions
+
+**ShellQMaker**
+
+![image-20201130105542851](Readme.assets/image-20201130105542851.png)
+
+**ShellQMaker (your shellcode) (executable files)**
+
+![image-20201130105542851](Readme.assets/image-20201130105542851.png)
+
+**The final loader will be generated.**
+
+![image-20201130105542851](Readme.assets/image-20201130105542851.png)
+
+## Result
+
+
