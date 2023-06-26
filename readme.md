@@ -40,5 +40,15 @@ Windows平台的shellcodemaker-Injection-Bypass能够免杀Norton、Microsoft De
 ![image-20221130105542851](Readme/shellQMaker-Instructions-004.png)
 
 ## Result
+360
 
+![image-20221130105542851](Readme/Result-01.png)
+
+火绒
+
+![image-20221130105542851](Readme/Result-02.png)
+
+Microsoft Defender（只查杀了 存储shellcode的download.dat文件）
+
+![image-20221130105542851](Readme/Result-03.png)
 
