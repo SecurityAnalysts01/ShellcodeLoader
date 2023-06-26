@@ -3,7 +3,7 @@ Windows通用免杀shellcode生成器
 
 language: [English](readme.md)
 
-Windows平台的shellqmaker-Injection_Bypass能够免杀Norton、Bitdefender、360、Panda.
+Windows平台的shellcodemaker-Injection-Bypass能够免杀Norton、Bitdefender、360、Panda.
 
 ## 功能特点
 
