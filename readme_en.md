@@ -1,9 +1,9 @@
 # Shellcode Maker
 Universal shellcode generator of Windows can bypass AV .
 
-语言: [中文](readme_cn.md)
+语言: [中文](readme_en.md)
 
-shellqmaker-Injection_Bypass of windows can bypass Norton、Bitdefender、360、Panda.
+shellcodemaker-Injection-Bypass of windows can bypass Norton、Bitdefender、360、Panda.
 
 
 ## Features
