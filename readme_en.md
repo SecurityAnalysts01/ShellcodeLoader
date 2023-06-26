@@ -42,4 +42,14 @@ Methods: Use vs2022 to open the project solution (. sln), and then compile.Of co
 
 ## Result
 
+360
 
+![image-20221130105542851](Readme/Result-01.png)
+
+HUORONG
+
+![image-20221130105542851](Readme/Result-02.png)
+
+Microsoft Defender（Only the download.dat file that stores the shellcode is killed）
+
+![image-20221130105542851](Readme/Result-03.png)
