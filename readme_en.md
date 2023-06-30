@@ -3,7 +3,7 @@ Universal shellcode generator of Windows can bypass AV .
 
 语言: [中文](readme.md)
 
-shellcodemaker-Injection-Bypass of windows can bypass Microsoft Defender、360、HuoRong、Panda.
+shellcodemaker-Injection-Bypass of windows can bypass Microsoft Defender、360、HuoRong、McAfee、Panda.
 
 
 ## Features
@@ -50,6 +50,11 @@ HUORONG
 
 ![image-20221130105542851](Readme/Result-02.png)
 
-Microsoft Defender（Only the download.dat file that stores the shellcode is killed）
+Microsoft Defender
 
 ![image-20221130105542851](Readme/Result-03.png)
+
+McAfee
+
+![image-20221130105542851](Readme/Result-04.png)
+
