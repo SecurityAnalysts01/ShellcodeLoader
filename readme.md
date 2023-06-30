@@ -27,7 +27,7 @@ Windows平台的shellcodemaker-Injection-Bypass能够免杀Microsoft Defender、
 
 ![image-20221130105542851](Readme/shellQMaker-Instructions-001.png)
 
-**获取download.dat文件**
+**获取payload.bin文件**
 
 ![image-20221130105542851](Readme/shellQMaker-Instructions-002.png)
 
