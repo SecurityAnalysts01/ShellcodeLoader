@@ -3,7 +3,7 @@ Windows通用免杀shellcode生成器
 
 language: [English](readme_en.md)
 
-Windows平台的shellcodemaker-Injection-Bypass能够免杀Microsoft Defender、360、火绒、Panda.
+Windows平台的shellcodemaker-Injection-Bypass能够免杀Microsoft Defender、360、火绒、迈克菲、Panda.
 
 ## 功能特点
 
@@ -48,7 +48,10 @@ Windows平台的shellcodemaker-Injection-Bypass能够免杀Microsoft Defender、
 
 ![image-20221130105542851](Readme/Result-02.png)
 
-Microsoft Defender（只查杀了 存储shellcode的download.dat文件）
+Microsoft Defender
 
 ![image-20221130105542851](Readme/Result-03.png)
 
+迈克菲
+
+![image-20221130105542851](Readme/Result-04.png)
