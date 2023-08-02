@@ -8,7 +8,7 @@ ShellcodeLoader of windows can bypass Microsoft Defender、360、HuoRong、McAfe
 
 ## Features
 
-Environment: The loader templates uses QT to implement, the generator and loader templates are developed with C + +, and statically compiled by VS2022.
+Environment: The loader template is developed using C++ through QT and statically compiled by VS2022.
 
 Currently it only has one loading modes,Other loading modes are in development.
 
@@ -18,7 +18,7 @@ Methods: Use vs2022 to open the project solution (. sln), and then compile.Of co
  
 ## Project Files
 
-  The tool is composed of a generator(ShellQMaker.exe) and Load template file(loading.exe).The generator (ShellQMaker.exe) writes different shellcodes into the loaded template file(loading.exe) to generate different executable files.
+  The tool is composed of ShellQMaker.exe and Load template file(loading.exe).ShellQMaker.exe writes different shellcodes into the loaded template file(loading.exe) to generate different executable files.
 
 <img src="Readme/ShellQMaker-Files-001.png" alt="image-20221124160121278" style="zoom:80%;" />
 
