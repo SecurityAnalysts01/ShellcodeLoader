@@ -1,5 +1,5 @@
 # ShellcodeLoader
-Windows通用免杀shellcode生成器
+Windows通用免杀shellcode加载器
 
 language: [English](readme_en.md)
 
