@@ -7,7 +7,7 @@ Windows平台的ShellcodeLoader能够免杀Microsoft Defender、360、火绒、�
 
 ## 功能特点
 
-环境：加载器模板使用QT实现，生成器和加载器模板使用C++开发，并由VS2022静态编译。
+环境：加载器模板通过QT实现使用C++开发，并由VS2022静态编译。
 
 目前只有一种加载模式，其他加载模式正在开发中。
 
@@ -17,7 +17,7 @@ Windows平台的ShellcodeLoader能够免杀Microsoft Defender、360、火绒、�
  
 ## Project Files
 
-本工具由生成器（ShellQMaker.exe）和加载模板文件（loading.exe）组成。生成器（ShellQMaker.exe）将不同的shellcode写入加载的模板文件（loading.exe）中，生成不同的可执行文件。
+本工具由ShellQMaker.exe和加载模板文件（loading.exe）组成。ShellQMaker.exe将不同的shellcode写入加载的模板文件（loading.exe）中，生成不同的可执行文件。
 
 <img src="Readme/ShellQMaker-Files-001.png" alt="image-20221124160121278" style="zoom:80%;" />
 
