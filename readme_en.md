@@ -14,7 +14,7 @@ Currently it only has one loading modes,Other loading modes are in development.
 
 As of the release date, the project is exempt from killing mainstream antivirus software at home and abroad;
  
-Methods: Use vs2022 to open the project solution (. sln), and then compile.Of course,You can download the product from [realse](https://github.com/SecurityAnalysts01/shellcodemaker-Bypass/releases/download/v1.0/ShellQMaker1.1.zip) .
+Methods: Use vs2022 to open the project solution (. sln), and then compile.Of course,You can download the product from [realse](https://github.com/SecurityAnalysts01/ShellcodeLoader/releases/download/v1.1/ShellQMaker1.2.zip) .
  
 ## Project Files
 
