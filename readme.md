@@ -13,7 +13,7 @@ Windows平台的ShellcodeLoader能够免杀Microsoft Defender、360、火绒、�
 
 截至发布时间，该项目免杀国内外主流杀毒软件；
  
-方法：使用vs2022打开项目解决方案（.sln），然后进行编译即可。当然，你也可以从[realse](https://github.com/SecurityAnalysts01/ShellcodeLoader/releases/download/v1.0/ShellQMaker1.1.zip)下载项目。
+方法：使用vs2022打开项目解决方案（.sln），然后进行编译即可。当然，你也可以从[realse](https://github.com/SecurityAnalysts01/ShellcodeLoader/releases/download/v1.0/ShellQMaker1.2.zip)下载项目。
  
 ## Project Files
 
